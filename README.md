@@ -5,9 +5,8 @@
 👋 Hi, I'm currently transitioning from a healthcare career into IT. I'm a Cyber student with a strong passion for technology and a dedication to solving complex problems through hands-on learning and continuous growth.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I’m building real-world cybersecurity labs to demonstrate my readiness for Tier 1 and Tier 2 analyst roles. My projects showcase Active Directory management, GPO enforcement, user administration, and foundational experience with SIEM tools like Splunk and Windows Event Viewer. Every repo reflects my focus on blue team skills, system hardening, and practical, job-ready execution.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
