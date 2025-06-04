@@ -14,7 +14,7 @@ I’m building real-world cybersecurity labs to demonstrate my readiness for Tie
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory         | <a href="https://github.com/shaunc11/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| SOC Analyst Lab | <a href="https://google.com">Detection Lab</a>|
+| SOC Analyst Lab Detecting Suspicious Logons with Splunk | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
