@@ -13,7 +13,7 @@ I’m building real-world cybersecurity labs to demonstrate my readiness for Tie
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory         | <a href="https://github.com/shaunc11/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-|Lab Detecting Suspicious Logons with Splunk | <a href="https://github.com/shaunc11/SOC-Analyst-Lab/blob/main/README.md">Splunk Lab</a>|
+|Detecting Suspicious Logons with Splunk | <a href="https://github.com/shaunc11/SOC-Analyst-Lab/blob/main/README.md">Splunk Lab</a>|
 |          | |
 |       | |
 |                  | |
