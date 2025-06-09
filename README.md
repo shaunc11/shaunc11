@@ -14,7 +14,7 @@ I’m building real-world cybersecurity labs to demonstrate my readiness for Tie
 |-----------------------------------------------|----------------------------|
 | Active Directory         | <a href="https://github.com/shaunc11/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 |Detecting Suspicious Logons with Splunk | <a href="https://github.com/shaunc11/SOC-Analyst-Lab/blob/main/README.md">Splunk Lab</a>|
-|          | |
+|Securing Entra ID: Fixing 5 IAM Misconfigurations in Azure          | <a href="https://github.com/shaunc11/Entra-ID-Lab/tree/main">Entra ID Lab</a> |
 |       | |
 |                  | |
 |  | |
