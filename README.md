@@ -45,3 +45,4 @@ I’m building real-world cybersecurity labs to demonstrate my readiness for Tie
 ## Projects
 - Detection Lab
 - SOC Analyst Lab
+- Entra ID Lab
