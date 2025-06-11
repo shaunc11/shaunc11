@@ -4,9 +4,10 @@
 
 👋 Hi, I'm currently transitioning from a healthcare career into IT. I'm a Cyber student with a strong passion for technology and a dedication to solving complex problems through hands-on learning and continuous growth.
 
+
 ## Objective
 
-I’m building real-world cybersecurity labs to demonstrate my readiness for Tier 1 and Tier 2 analyst roles. My projects showcase Active Directory management, GPO enforcement, user administration, and foundational experience with SIEM tools like Splunk and Windows Event Viewer. Every repo reflects my focus on blue team skills, system hardening, and practical, job-ready execution.
+I’m building real-world cybersecurity labs that showcase my readiness for Identity & Access Management (IAM) and Tier 1 security roles. My projects focus on enterprise-grade access control, Azure AD role-based permissions, group policy enforcement, and user lifecycle operations. I also demonstrate foundational blue team skills with tools like Splunk, Windows Event Viewer, and PowerShell. Every repo is proof-of-work: designed to highlight my ability to secure, audit, and troubleshoot identity systems in a live environment.
 
 ## Skills
 
@@ -46,3 +47,4 @@ I’m building real-world cybersecurity labs to demonstrate my readiness for Tie
 - Detection Lab
 - SOC Analyst Lab
 - Entra ID Lab
+- Azure IAM Escalation Lab
