@@ -17,7 +17,7 @@ I’m building real-world cybersecurity labs that showcase my readiness for Iden
 |Detecting Suspicious Logons with Splunk | <a href="https://github.com/shaunc11/SOC-Analyst-Lab/blob/main/README.md">Splunk Lab</a>|
 |Securing Entra ID: Fixing 5 IAM Misconfigurations in Azure          | <a href="https://github.com/shaunc11/Entra-ID-Lab/tree/main">Entra ID Lab</a> |
 |Inheriting Blob Access in Azure Without Direct Permission    | <A HREF="https://github.com/shaunc11/Azure-IAM-Escalation/tree/main">Azure IAM Escalation</a> |
-|                  | |
+| Host & Network Recon Lab                 | <a href="https://github.com/shaunc11/recon-lab01/tree/main">Recon01 Lab</a>|
 |  | |
 
 ## Tools
